@@ -7,5 +7,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("发发发");
         System.out.println("66666");
+        System.out.println("你好，我的朋友");
     }
 }
