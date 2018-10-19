@@ -10,7 +10,7 @@ public class Test {
         System.out.println("你好，我的朋友");
         System.out.println("8888888");
         System.out.println("devdevdev");
-        System.out.println("devdevdev2");
+        
 
 
     }
